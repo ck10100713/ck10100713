@@ -1,14 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+PoChen;AI+Engineer+%7C+Agent+Builder;Building+intelligent+tools+for+humans" alt="Typing SVG" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=200&section=header&text=PoChen&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agent%20Builder&descSize=20&descAlignY=55" width="100%" />
 
 <p align="center">
-  <em>Crafting AI agents & tools that actually get things done.</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Building+AI+agents+that+get+things+done;From+LLM+to+production+in+record+time;Ship+fast%2C+iterate+faster+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ck10100713"><img src="https://img.shields.io/github/followers/ck10100713?label=Followers&style=social" alt="GitHub Followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=ck10100713&color=6C63FF&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <a href="https://github.com/ck10100713"><img src="https://img.shields.io/github/followers/ck10100713?label=Followers&style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117" alt="GitHub Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=ck10100713&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
 
 ---
@@ -52,6 +50,14 @@ class PoChen:
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ck10100713&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -62,6 +68,16 @@ class PoChen:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ck10100713&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ck10100713/ck10100713/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ck10100713/ck10100713/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ck10100713/ck10100713/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
@@ -76,5 +92,5 @@ class PoChen:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=100&section=footer" />
 </p>
