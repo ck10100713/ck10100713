@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=200&section=header&text=PoChen&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agent%20Builder&descSize=20&descAlignY=55" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Building+AI+agents+that+get+things+done;From+LLM+to+production+in+record+time;Ship+fast%2C+iterate+faster+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Building+AI+agents+that+get+things+done;Diver+%F0%9F%A4%BF+Trader+%F0%9F%93%88+Puzzle+Solver+%F0%9F%A7%A9;From+LLM+to+production+in+record+time;Ship+fast%2C+iterate+faster+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,11 @@ class PoChen:
     role = "AI Engineer"
     focus = ["AI Agents", "LLM Tooling", "Automation"]
     building = "Intelligent systems that bridge AI and real-world workflows"
+    interests = ["🤿 Scuba Diving", "📈 Trading", "🧩 Puzzle Solving"]
     motto = "Ship fast, iterate faster."
+
+    def philosophy(self):
+        return "Explore the deep sea, read the market, crack the puzzle, build the future."
 ```
 
 - 🔭 專注於 **AI Agent 架構設計**與**工具鏈開發**
@@ -47,6 +51,37 @@ class PoChen:
 | **Tools** | Git · GitHub Actions · Claude Code · Cursor |
 
 </details>
+
+---
+
+### 🌊 Life Beyond Code
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🤿_Scuba_Diving-0077B6?style=for-the-badge" /><br><br>
+      <b>深入未知的世界</b><br>
+      <sub>Exploring depths where<br>no WiFi can reach</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/📈_Trading-00C853?style=for-the-badge" /><br><br>
+      <b>讀懂市場的語言</b><br>
+      <sub>Markets are just another<br>complex system to decode</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/💰_Investing-FF6F00?style=for-the-badge" /><br><br>
+      <b>用 AI 驅動投資</b><br>
+      <sub>Let agents do the<br>heavy lifting</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🧩_Puzzles-7C4DFF?style=for-the-badge" /><br><br>
+      <b>解開每一道謎題</b><br>
+      <sub>Debugging is just<br>puzzle solving in disguise</sub>
+    </td>
+  </tr>
+</table>
+
+> *"The ocean, the market, and a good puzzle — all complex systems waiting to be understood."*
 
 ---
 
