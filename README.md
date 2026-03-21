@@ -1,12 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=200&section=header&text=PoChen&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agent%20Builder&descSize=20&descAlignY=55" width="100%" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Building+AI+agents+that+get+things+done;Diver+%F0%9F%A4%BF+Trader+%F0%9F%93%88+Puzzle+Solver+%F0%9F%A7%A9;From+LLM+to+production+in+record+time;Ship+fast%2C+iterate+faster+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="img/ocean-wave-header.svg" width="100%" alt="Ocean Wave Header" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ck10100713"><img src="https://img.shields.io/github/followers/ck10100713?label=Followers&style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117" alt="GitHub Followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=ck10100713&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=48CAE4&center=true&vCenter=true&random=false&width=520&lines=Building+AI+agents+that+get+things+done;Diver+%F0%9F%A4%BF+Trader+%F0%9F%93%88+Puzzle+Solver+%F0%9F%A7%A9;From+LLM+to+production+in+record+time;Ship+fast%2C+iterate+faster+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ck10100713"><img src="https://img.shields.io/github/followers/ck10100713?label=Followers&style=for-the-badge&logo=github&color=0077B6&labelColor=001845" alt="GitHub Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=ck10100713&color=0077B6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dbitcoin%26vs_currencies%3Dusd&query=%24.bitcoin.usd&label=BTC&prefix=%24&color=F7931A&logo=bitcoin&logoColor=white&style=for-the-badge" alt="BTC Price">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.coingecko.com%2Fapi%2Fv3%2Fsimple%2Fprice%3Fids%3Dethereum%26vs_currencies%3Dusd&query=%24.ethereum.usd&label=ETH&prefix=%24&color=627EEA&logo=ethereum&logoColor=white&style=for-the-badge" alt="ETH Price">
 </p>
 
 ---
@@ -54,34 +58,71 @@ class PoChen:
 
 ---
 
-### 🌊 Life Beyond Code
+### ♟️ Community Chess
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🤿_Scuba_Diving-0077B6?style=for-the-badge" /><br><br>
-      <b>深入未知的世界</b><br>
-      <sub>Exploring depths where<br>no WiFi can reach</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/📈_Trading-00C853?style=for-the-badge" /><br><br>
-      <b>讀懂市場的語言</b><br>
-      <sub>Markets are just another<br>complex system to decode</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/💰_Investing-FF6F00?style=for-the-badge" /><br><br>
-      <b>用 AI 驅動投資</b><br>
-      <sub>Let agents do the<br>heavy lifting</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🧩_Puzzles-7C4DFF?style=for-the-badge" /><br><br>
-      <b>解開每一道謎題</b><br>
-      <sub>Debugging is just<br>puzzle solving in disguise</sub>
-    </td>
-  </tr>
-</table>
+**Play chess with me!** Click a legal move below to make your move via GitHub Issues.
 
-> *"The ocean, the market, and a good puzzle — all complex systems waiting to be understood."*
+<!-- BEGIN CHESS BOARD -->
+|   | A | B | C | D | E | F | G | H |   |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **8** | <img src="img/black/rook.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/queen.svg" width=50px> | <img src="img/black/king.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/rook.svg" width=50px> | **8** |
+| **7** | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | **7** |
+| **6** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **6** |
+| **5** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **5** |
+| **4** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **4** |
+| **3** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **3** |
+| **2** | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | **2** |
+| **1** | <img src="img/white/rook.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/queen.svg" width=50px> | <img src="img/white/king.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/rook.svg" width=50px> | **1** |
+|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
+<!-- END CHESS BOARD -->
+
+**It's <!-- BEGIN TURN -->white<!-- END TURN -->'s turn!**
+
+<!-- BEGIN MOVES LIST -->
+[Click here to start a new game!](https://github.com/ck10100713/ck10100713/issues/new?title=Chess%3A+Start+new+game&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.)
+<!-- END MOVES LIST -->
+
+<details>
+<summary><b>Recent Moves & Leaderboard</b></summary>
+
+<!-- BEGIN LAST MOVES -->
+
+| Move | Author |
+| :--: | :----- |
+
+<!-- END LAST MOVES -->
+
+<!-- BEGIN TOP MOVES -->
+
+| Total moves |  User  |
+| :---------: | :----- |
+
+<!-- END TOP MOVES -->
+
+</details>
+
+---
+
+### 🎮 Community Connect Four
+
+**Drop a disk!** Click a column number to play. You can also [ask the bot](https://github.com/ck10100713/ck10100713/issues/new?title=connect4%7Cdrop%7Cred%7Cai&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) to make a move.
+
+<!-- BEGIN CONNECT4 -->
+![](https://img.shields.io/badge/Moves%20played-0-0077B6?style=flat-square)
+![](https://img.shields.io/badge/Completed%20games-0-023E8A?style=flat-square)
+![](https://img.shields.io/badge/Total%20players-0-0096C7?style=flat-square)
+
+It is the **red** team's turn to play.
+
+|[1](https://github.com/ck10100713/ck10100713/issues/new?title=connect4%7Cdrop%7Cred%7C1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[2](https://github.com/ck10100713/ck10100713/issues/new?title=connect4%7Cdrop%7Cred%7C2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[3](https://github.com/ck10100713/ck10100713/issues/new?title=connect4%7Cdrop%7Cred%7C3&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[4](https://github.com/ck10100713/ck10100713/issues/new?title=connect4%7Cdrop%7Cred%7C4&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[5](https://github.com/ck10100713/ck10100713/issues/new?title=connect4%7Cdrop%7Cred%7C5&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[6](https://github.com/ck10100713/ck10100713/issues/new?title=connect4%7Cdrop%7Cred%7C6&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[7](https://github.com/ck10100713/ck10100713/issues/new?title=connect4%7Cdrop%7Cred%7C7&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|
+| - | - | - | - | - | - | - |
+|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|
+|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|
+|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|
+|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|
+|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|
+|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|![](https://raw.githubusercontent.com/ck10100713/ck10100713/main/images/blank.png)|
+<!-- END CONNECT4 -->
 
 ---
 
@@ -96,12 +137,12 @@ class PoChen:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ck10100713&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck10100713&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ck10100713&show_icons=true&hide_border=true&bg_color=001845&title_color=48CAE4&icon_color=0096C7&text_color=CAF0F8&ring_color=0077B6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck10100713&layout=compact&hide_border=true&bg_color=001845&title_color=48CAE4&text_color=CAF0F8&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ck10100713&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ck10100713&hide_border=true&background=001845&ring=0077B6&fire=48CAE4&currStreakLabel=48CAE4&sideLabels=CAF0F8&currStreakNum=CAF0F8&sideNums=CAF0F8&dates=90E0EF" />
 </p>
 
 ---
@@ -116,16 +157,6 @@ class PoChen:
 
 ---
 
-### 🏗️ Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 **AI Agent Framework** | Multi-agent orchestration system powered by LLM |
-| 🛒 **E-commerce Platform** | Full-stack shopping platform with AI-powered features |
-| 📱 **Mobile & Web Apps** | Cross-platform applications for real-world use cases |
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001845,50:023E8A,100:0077B6&height=100&section=footer" />
 </p>

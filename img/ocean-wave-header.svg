@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none" width="100%" height="320">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#001845;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#023E8A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0077B6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="wave1color">
+      <stop offset="0%" style="stop-color:#0096C7;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#00B4D8;stop-opacity:0.6" />
+    </linearGradient>
+    <linearGradient id="wave2color">
+      <stop offset="0%" style="stop-color:#48CAE4;stop-opacity:0.5" />
+      <stop offset="100%" style="stop-color:#90E0EF;stop-opacity:0.4" />
+    </linearGradient>
+    <linearGradient id="wave3color">
+      <stop offset="0%" style="stop-color:#ADE8F4;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#CAF0F8;stop-opacity:0.2" />
+    </linearGradient>
+    <style>
+      @keyframes drift1 {
+        0% { transform: translateX(0); }
+        50% { transform: translateX(-80px); }
+        100% { transform: translateX(0); }
+      }
+      @keyframes drift2 {
+        0% { transform: translateX(0); }
+        50% { transform: translateX(60px); }
+        100% { transform: translateX(0); }
+      }
+      @keyframes drift3 {
+        0% { transform: translateX(0); }
+        50% { transform: translateX(-40px); }
+        100% { transform: translateX(0); }
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-8px); }
+      }
+      @keyframes bubble1 {
+        0% { transform: translateY(0); opacity: 0.6; }
+        100% { transform: translateY(-120px); opacity: 0; }
+      }
+      @keyframes bubble2 {
+        0% { transform: translateY(0); opacity: 0.4; }
+        100% { transform: translateY(-100px); opacity: 0; }
+      }
+      .w1 { animation: drift1 8s ease-in-out infinite; }
+      .w2 { animation: drift2 6s ease-in-out infinite; }
+      .w3 { animation: drift3 10s ease-in-out infinite; }
+      .title-text { animation: float 4s ease-in-out infinite; }
+      .b1 { animation: bubble1 4s ease-in infinite; }
+      .b2 { animation: bubble2 5s ease-in infinite 1s; }
+      .b3 { animation: bubble1 6s ease-in infinite 2s; }
+      .b4 { animation: bubble2 4.5s ease-in infinite 0.5s; }
+      .b5 { animation: bubble1 5.5s ease-in infinite 3s; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1440" height="320" fill="url(#sky)"/>
+
+  <!-- Bubbles -->
+  <circle class="b1" cx="200" cy="280" r="4" fill="#90E0EF" opacity="0.6"/>
+  <circle class="b2" cx="500" cy="260" r="3" fill="#ADE8F4" opacity="0.4"/>
+  <circle class="b3" cx="800" cy="290" r="5" fill="#CAF0F8" opacity="0.5"/>
+  <circle class="b4" cx="1100" cy="270" r="3.5" fill="#90E0EF" opacity="0.4"/>
+  <circle class="b5" cx="350" cy="300" r="2.5" fill="#ADE8F4" opacity="0.3"/>
+  <circle class="b1" cx="1250" cy="285" r="3" fill="#CAF0F8" opacity="0.5"/>
+  <circle class="b3" cx="650" cy="295" r="4" fill="#90E0EF" opacity="0.4"/>
+
+  <!-- Wave 3 (back) -->
+  <g class="w3">
+    <path d="M0,240 C120,200 240,260 360,240 C480,220 600,260 720,240 C840,220 960,260 1080,240 C1200,220 1320,260 1440,240 L1440,320 L0,320 Z" fill="url(#wave3color)"/>
+  </g>
+
+  <!-- Wave 2 (mid) -->
+  <g class="w2">
+    <path d="M0,260 C160,230 280,280 440,260 C600,240 720,280 880,260 C1040,240 1160,280 1320,260 C1380,250 1420,255 1440,260 L1440,320 L0,320 Z" fill="url(#wave2color)"/>
+  </g>
+
+  <!-- Title -->
+  <g class="title-text">
+    <text x="720" y="140" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="bold" fill="white" letter-spacing="4">PoChen</text>
+    <text x="720" y="185" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="22" fill="#CAF0F8" letter-spacing="2">AI Engineer  |  Agent Builder  |  Deep Sea Explorer</text>
+  </g>
+
+  <!-- Wave 1 (front) -->
+  <g class="w1">
+    <path d="M0,280 C200,250 350,300 520,280 C690,260 800,300 960,280 C1120,260 1280,300 1440,280 L1440,320 L0,320 Z" fill="url(#wave1color)"/>
+  </g>
+</svg>
