@@ -61,7 +61,7 @@ class PoChen:
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ck10100713&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=ck10100713&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
